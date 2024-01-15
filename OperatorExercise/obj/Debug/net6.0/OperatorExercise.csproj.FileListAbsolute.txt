@@ -1,0 +1,15 @@
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.sourcelink.json
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\missi\Desktop\repos\Operator\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
